@@ -20,7 +20,7 @@ Bienvenido al repositorio de Crackman, un juego de escritorio desarrollado en C#
 
 ## Características Principales
 
-- **Modo Multijugador:** Juega con amigos en línea.
+- **Modo Multijugador:** Juega con amigos.
 - **Tres Niveles de Dificultad:** Aumenta la dificultad a medida que avanzas.
 - **Diseño Inspirado en Pacman:** Basado en el clásico juego Pacman.
 
